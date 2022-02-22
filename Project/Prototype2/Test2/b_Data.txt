@@ -1,0 +1,29 @@
+B Data:
+Optimal Path:
+(5, 11)
+(6, 11)
+(6, 10)
+(6, 9)
+(6, 8)
+(6, 7)
+(6, 6)
+(6, 5)
+(6, 4)
+(6, 3)
+
+Explored List:
+(5, 11)
+(6, 11)
+(6, 10)
+(6, 9)
+(6, 8)
+(6, 7)
+(6, 6)
+(6, 5)
+(6, 4)
+(6, 3)
+
+Optimal Path Cost:
+38
+Score (Path Cost + 1/5 explored list length):
+40.0

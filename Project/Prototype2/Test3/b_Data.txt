@@ -1,0 +1,17 @@
+B Data:
+Optimal Path:
+(11, 12)
+(12, 12)
+(13, 12)
+(14, 12)
+
+Explored List:
+(11, 12)
+(12, 12)
+(13, 12)
+(14, 12)
+
+Optimal Path Cost:
+18
+Score (Path Cost + 1/5 explored list length):
+18.8

@@ -1,0 +1,13 @@
+C Data:
+Optimal Path:
+
+Explored List:
+(0, 0)
+(0, 1)
+(1, 0)
+(0, 2)
+(0, 3)
+
+Optimal Path Cost:
+0
+Score (Path Cost + 1/5 explored list length):
